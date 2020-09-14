@@ -26,6 +26,21 @@ You’re not alone in your learning journey! Join the Hacktoberfest Discord chan
 
 If you’re thinking of organizing your own Hacktoberfest meetup, check out the Event Organizer Kit and best practices video to get started.
 
+------------------------
+
+## Tech Talks
+
+**Getting the Most Out of Open Source**
+October 1, 11:00 a.m. ET
+Ready for Hacktoberfest? Open source project maintainers and contributors are invited to a virtual refresher on how to have happy, productive, and meaningful interactions with the open source community.
+
+https://www.digitalocean.com/community/tech_talks/getting-the-most-out-of-open-source
+
+**Level Up as an Open Source Contributor**
+October 6, 11:00 a.m. ET
+Git tips and tricks for preparing and submitting pull requests that people will really want to review and merge.
+
+https://www.digitalocean.com/community/tech_talks/level-up-as-an-open-source-contributor
 
 
 
